@@ -1,72 +1,65 @@
 {
   "data":[{
-    "Prize_Title": "First Prize",
-    "Prize_Amount": "Tablet",
-    "WinnerName":"James",
+    "Prize_Title": "MacBook",
+    "Prize_Amount": "MacBook",
+    "WinnerName":"Matthieu Denys",
     "Prize_Ticket_Number": "112222334455",
     "SlotsValues": [11,22,22,33,44,55]
 },
 {
-    "Prize_Title": "Second Prize",
-    "Prize_Amount": "Tablet",
-    "WinnerName":"julian",
+    "Prize_Title": "MacBook",
+    "Prize_Amount": "MacBook",
+    "WinnerName":"ilhan Cetiner",
     "Prize_Ticket_Number": "112266334455",
     "SlotsValues": [11,22,66,33,44,55]
 },
 {
-    "Prize_Title": "Third Prize",
-    "Prize_Amount": "Tablet",
-    "WinnerName":"Shahbaz",
+    "Prize_Title": "MacBook",
+    "Prize_Amount": "MacBook",
+    "WinnerName":"Cynthia Junsay",
     "Prize_Ticket_Number": "212222334455",
     "SlotsValues": [21,22,22,33,44,55]
   
 },
 {
-    "Prize_Title": "Third Prize",
-    "Prize_Amount": "Tablet",
-    "WinnerName":"Anil",
+    "Prize_Title": "$2,500 Node",
+    "Prize_Amount": "$2,500 Node",
+    "WinnerName":"Jaro Jeden",
     "Prize_Ticket_Number": "232222334455",
     "SlotsValues": [23,22,22,33,44,55]
 },
 {
-    "Prize_Title": "Third Prize",
-    "Prize_Amount": "Tablet",
-    "WinnerName":"Ajay",
+    "Prize_Title": "Diamond Ring",
+    "Prize_Amount": "Diamond Ring",
+    "WinnerName":"DrASHOK KUMAR",
     "Prize_Ticket_Number": "152222334455",
     "SlotsValues": [15,22,22,33,44,55]
 },
 {
-    "Prize_Title": "Third Prize",
-    "Prize_Amount": "Tablet",
-    "WinnerName":"john",
+    "Prize_Title": "Burj Al Arab",
+    "Prize_Amount": "Burj Al Arab",
+    "WinnerName":"HWANG EUIHYEOK",
     "Prize_Ticket_Number": "442222334455",
     "SlotsValues": [44,22,22,33,44,55]
 },
 {
-    "Prize_Title": "Third Prize",
-    "Prize_Amount": "Tablet",
-    "WinnerName":"james",
+    "Prize_Title": "Omega Watch",
+    "Prize_Amount": "Omega Watch",
+    "WinnerName":"Whodat Twentyone",
     "Prize_Ticket_Number": "252222334455",
     "SlotsValues": [25,22,22,33,44,55]
 },
 {
-    "Prize_Title": "Third Prize",
-    "Prize_Amount": "Tablet",
-    "WinnerName":"Yasir",
+    "Prize_Title": "50 BNB",
+    "Prize_Amount": "50 BNB",
+    "WinnerName":"Online Coach",
     "Prize_Ticket_Number": "152222334455",
     "SlotsValues": [15,22,22,33,44,55]
 },
 {
-    "Prize_Title": "Third Prize",
-    "Prize_Amount": "Tablet",
-    "WinnerName":"chin le",
-    "Prize_Ticket_Number": "152222334455",
-    "SlotsValues": [15,22,22,33,44,55]
-},
-{
-    "Prize_Title": "Third Prize",
-    "Prize_Amount": "Tablet",
-    "WinnerName":"chin le",
+    "Prize_Title": "500 Gms Gold",
+    "Prize_Amount": "500 Gms Gold",
+    "WinnerName":"Rajat Thakur",
     "Prize_Ticket_Number": "152222334455",
     "SlotsValues": [15,22,22,33,44,55]
 }
