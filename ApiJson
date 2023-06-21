@@ -1,0 +1,25 @@
+{
+  "session": {
+    "type": 0,
+    "duration": 86400000,
+    "startTime": 1679313204463,
+    "endTime": 1679313204463,
+    "callsCount": 0,
+    "pickedCallsCount": 0,
+    "messagesCount": 0,
+    "repliedMessagesCount": 0,
+    "location": {
+      "lat": "abc-1",
+      "long": "abc-2"
+    }
+  },
+  "logs": [
+    {
+      "type": 1,
+      "name": "test-3",
+      "phoneNumber": "+923123654782",
+      "responded": false,
+      "sessionId": 0
+    }
+  ]
+}
